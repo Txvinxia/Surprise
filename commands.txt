@@ -1,0 +1,38 @@
+python -m pip install virtualenv
+
+// name of the virtual environment is venv
+python -m virtualenv venv
+
+// activate venv
+source venv/bin/activate
+
+// install django
+python -m pip install django
+
+sudo npm install -g npm
+
+pip install djangorestframework
+
+// start django project
+django-admin startproject crud
+
+django-admin startapp api
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver
+
+
+// create front end
+npx create-react-app frontend
+
+npm start
+
+
+// connect back and front
+pip install django-cors-headers
+
+
+npm i react-router-dom  
