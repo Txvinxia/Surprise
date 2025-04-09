@@ -42,6 +42,12 @@ npm i react-router-dom
 npm install @mui/material @emotion/react @emotion/styled
 //or for icons
 npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+// and datepicker
+npm install @mui/x-date-pickers
+npm install dayjs
 
 // create superuser
 python manage.py createsuperuser
+
+// install react-hook-form
+npm install react-hook-form
