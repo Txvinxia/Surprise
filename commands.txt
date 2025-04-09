@@ -36,3 +36,9 @@ pip install django-cors-headers
 
 
 npm i react-router-dom  
+
+
+// install material ui
+npm install @mui/material @emotion/react @emotion/styled
+//or for icons
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
