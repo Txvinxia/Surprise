@@ -51,3 +51,7 @@ python manage.py createsuperuser
 
 // install react-hook-form
 npm install react-hook-form
+
+
+// install axios
+npm install axios
